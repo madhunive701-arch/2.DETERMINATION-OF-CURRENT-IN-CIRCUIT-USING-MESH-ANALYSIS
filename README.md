@@ -22,6 +22,11 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+![WhatsApp Image 2025-10-12 at 13 58 08_2c6a7d43](https://github.com/user-attachments/assets/b1aa6b76-c103-45a0-8707-3dca46e1f425)
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
